@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Medi-client/static/css/main.df7df212.css",
+    "main.js": "/Medi-client/static/js/main.52fa6075.js",
+    "index.html": "/Medi-client/index.html",
+    "main.df7df212.css.map": "/Medi-client/static/css/main.df7df212.css.map",
+    "main.52fa6075.js.map": "/Medi-client/static/js/main.52fa6075.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df7df212.css",
+    "static/js/main.52fa6075.js"
+  ]
+}
